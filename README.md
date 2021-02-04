@@ -1,2 +1,2 @@
 # obsidian-paper-cut
-Express an idea in the simplesest possible way ... or else
+Express an idea in the simplest possible way ... or else
