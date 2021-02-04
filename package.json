@@ -1,7 +1,7 @@
 {
   "name": "PaperCut",
   "version": "0.0.1",
-  "description": "Express an idea in the simplesest possible way ... or else",
+  "description": "Express an idea in the simplest possible way ... or else",
   "main": "main.js",
   "scripts": {
   },
