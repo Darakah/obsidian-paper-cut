@@ -5,9 +5,9 @@ Expressing an idea in the simplest and most consive way possible provides great 
 Papercut plugin allows the user to set a `Paper Limit` that deletes any note content that exceeds that limit.
 
 ## Example
-----
+
 ![example](./example.png)
 
 ## Settings
-----
+
 ![settings](./settings.png)
