@@ -80,7 +80,7 @@ export default class MyPlugin extends Plugin {
                         }
                     }
 
-                    this.app.vault.adapter.write(this.app.workspace.getActiveFile().path, content.substring(0, tmp_counter))
+                    this.app.vault.adapter.write(this.app.workspace.getActiveFile().path, content.substring(0, mid))
                     //console.log(content.substring(0, tmp_counter))
 
                 } else {
