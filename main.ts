@@ -63,7 +63,7 @@ export default class MyPlugin extends Plugin {
                 tmp_counter = this.settings.PAPER_CUT_LIMIT;
 
                 if(len > this.settings.PAPER_CUT_LIMIT){
-                    (this.app as any).statusBar.containerEl.querySelector("div[class='papercut']").innerHTML = " 100 %";
+                    (this.app as any).statusBar.containerEl.querySelector("div[class='papercut']").innerHTML = '<span style="color:red;">100 %</span>';
                     // get the illegal text
                     lhs = this.settings.PAPER_CUT_LIMIT;
                     rhs = content.length;
