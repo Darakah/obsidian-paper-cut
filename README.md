@@ -1,7 +1,7 @@
 # Obsidian Papercut Plugin
 
-![GitHub release)](https://img.shields.io/github/v/release/Darakah/obsidian-comments-plugin)
-![GitHub all releases](https://img.shields.io/github/downloads/Darakah/obsidian-comments-plugin/total)
+![GitHub release)](https://img.shields.io/github/v/release/Darakah/obsidian-paper-cut)
+![GitHub all releases](https://img.shields.io/github/downloads/Darakah/obsidian-paper-cut/total)
 
 Expressing an idea in the simplest and most concise way possible provides great benefits especially in a growing web of ideas.
 
