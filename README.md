@@ -9,8 +9,8 @@ Papercut plugin allows the user to set a `Paper Limit` that deletes any note con
 
 ## Example
 
-![example](https://github.com/Darakah/obsidian-paper-cut/blob/main/images/example.png)
+![](https://github.com/Darakah/obsidian-paper-cut/blob/main/images/example.png)
 
 ## Settings
 
-![settings](https://github.com/Darakah/obsidian-paper-cut/blob/main/images/settings.png)
+![](https://github.com/Darakah/obsidian-paper-cut/blob/main/images/settings.png)
