@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-paper-cut",
 	"name": "PaperCut",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"minAppVersion": "0.10.11",
 	"description": "Express an idea in the simplest possible way ... or else",
 	"author": "darakah",
