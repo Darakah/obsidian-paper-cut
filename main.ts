@@ -30,7 +30,7 @@ export default class PapercutPlugin extends Plugin {
 
 	async onload() {
         // Send output to console
-        console.log('Loaded Comments Plugin');
+        console.log('Loaded Plugin');
 
         await this.loadSettings();
 
