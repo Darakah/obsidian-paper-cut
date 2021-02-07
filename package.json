@@ -1,6 +1,6 @@
 {
   "name": "obsidian-paper-cutn",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Express an idea in the simplest possible way ... or else",
   "main": "main.js",
   "scripts": {
