@@ -17,4 +17,4 @@ Papercut plugin allows the user to set a `Paper Limit` that deletes any note con
 
 ## Support
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="BuyMeACoffee" width="100">](https://www.buymeacoffee.com/darakah)
+[![Github Sponsorship](https://github.com/Darakah/Darakah/blob/main/icons/github_sponsor_btn.svg)](https://github.com/sponsors/Darakah) [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="BuyMeACoffee" width="100">](https://www.buymeacoffee.com/darakah)
